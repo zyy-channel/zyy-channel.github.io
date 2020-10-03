@@ -2,7 +2,7 @@
 document.writeln("        <nav class=\'navbar navbar-default\' role=\'navigation\'>");
 document.writeln("            <div class=\'container-fluid\'>");
 document.writeln("                <div class=\'navbar-header\'>");
-document.writeln("                    <a class=\'navbar-brand\' href=\'#\'>我在B站学生物</a>");
+document.writeln("                    <a class=\'navbar-brand\' href=\'index.html\'>我在B站学生物</a>");
 document.writeln("                </div>");
 document.writeln("                <ul class=\'nav navbar-nav\'>");
 document.writeln("                    <li class=\'dropdown\'>");
