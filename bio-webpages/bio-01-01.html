@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>我在B站学生物 1-1 张云翼</title>
+        <title>我在B站学生物 1-1</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="content.css">
@@ -39,7 +39,7 @@
         <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <script>
-            $.get('./documents/bio-01-01.md', function(response, status, xhr){
+            $.get('../documents/bio-01-01.md', function(response, status, xhr){
                 $("#content").html(marked(response));
             });
         </script>
