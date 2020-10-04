@@ -32,17 +32,18 @@
             <div class="panel panel-default col-xs-12 col-sm-12">
                 <div class="panel-body">
                     <div id="content"></div>
-                        <script>
-                            $.get('./documents/bio-01-02.md', function(response, status, xhr){
-                                $("#content").html(marked(response));
-                            });
-                        </script>
+                        
                 </div>
             </div>
         </div>
         <script type="text/javascript" src="foot.js"></script>
         <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
         <script src="../node_modules/marked/marked.min.js"></script>
+        <script>
+            $.get('./documents/bio-01-02.md', function(response, status, xhr){
+                $("#content").html(marked(response));
+            });
+        </script>
         <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </body>
 </html>
