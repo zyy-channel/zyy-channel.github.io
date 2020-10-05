@@ -11,7 +11,7 @@ document.writeln("                    <b class=\'caret\'></b>");
 document.writeln("                </a>");
 document.writeln("                <ul class=\'dropdown-menu\'>");
 document.writeln("                    <li><a href=\'./bio-01-index.html\'>第1章  绪论——生物界与生物学</a></li>");
-document.writeln("                    <li><a href=\'#\'>第2章  生物的化学组成</a></li>");
+document.writeln("                    <li><a href=\'./bio-02-index.html\'>第2章  生物的化学组成</a></li>");
 document.writeln("                    <li><a href=\'#\'>第3章  细胞的结构</a></li>");
 document.writeln("                    <li><a href=\'#\'>第4章  物质的跨膜运输</a></li>");
 document.writeln("                    <li><a href=\'#\'>第5章  细胞代谢</a></li>");
