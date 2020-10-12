@@ -50,7 +50,7 @@ document.writeln("                    <b class=\'caret\'></b>");
 document.writeln("                </a>");
 document.writeln("                <ul class=\'dropdown-menu\'>");
 document.writeln("                    <li><a href=\'./bio-16-index.html\'>第16章 种群与群落</a></li>");
-document.writeln("                    <li><a href=\'#\' disabled=\'disabled\'>第17章 生态系统</a></li>");
+document.writeln("                    <li><a href=\'./bio-17-index.html\'>第17章 生态系统</a></li>");
 document.writeln("                </ul>");
 document.writeln("            </li>");
 document.writeln("            <li class=\'dropdown\'>");
