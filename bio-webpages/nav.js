@@ -59,9 +59,9 @@ document.writeln("                    选择性必修三：生物技术与工程
 document.writeln("                    <b class=\'caret\'></b>");
 document.writeln("                </a>");
 document.writeln("                <ul class=\'dropdown-menu\'>");
-document.writeln("                    <li><a href=\'#\' disabled=\'disabled\'>第18章 发酵工程</a></li>");
-document.writeln("                    <li><a href=\'#\' disabled=\'disabled\'>第19章 细胞工程</a></li>");
-document.writeln("                    <li><a href=\'#\' disabled=\'disabled\'>第20章 基因工程</a></li>");
+document.writeln("                    <li><a href=\'./bio-18-index.html\'>第18章 发酵工程</a></li>");
+document.writeln("                    <li><a href=\'./bio-19-index.html\'>第19章 细胞工程</a></li>");
+document.writeln("                    <li><a href=\'./bio-20-index.html\'>第20章 基因工程</a></li>");
 document.writeln("                </ul>");
 document.writeln("            </li>");
 document.writeln("        </ul>");
